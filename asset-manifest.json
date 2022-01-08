@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/IEEE/static/css/main.efba876a.css",
+    "main.js": "/IEEE/static/js/main.178ec957.js",
+    "static/js/787.cfd8f164.chunk.js": "/IEEE/static/js/787.cfd8f164.chunk.js",
+    "static/media/contact.jpg": "/IEEE/static/media/contact.3b033bf3ad309571a5a2.jpg",
+    "static/media/logoLarge.jpg": "/IEEE/static/media/logoLarge.f4243dab299b84f230ec.jpg",
+    "index.html": "/IEEE/index.html",
+    "main.efba876a.css.map": "/IEEE/static/css/main.efba876a.css.map",
+    "main.178ec957.js.map": "/IEEE/static/js/main.178ec957.js.map",
+    "787.cfd8f164.chunk.js.map": "/IEEE/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efba876a.css",
+    "static/js/main.178ec957.js"
+  ]
+}
