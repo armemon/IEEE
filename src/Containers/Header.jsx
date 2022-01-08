@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from "react-router-dom";
 import ReactDOM from 'react-dom';
 import { Navbar, Nav, Container, NavDropdown } from 'react-bootstrap';
 import './Header.css';
@@ -43,8 +44,10 @@ class Footer extends React.Component {
   render() {
     return (
       <div className="footer">
-        <h6>Copyright ©2022 All rights reserved | Designed And Developed By <span className="green">IEEE IT TEAM</span></h6>
-      </div>
+        {/* <h6>Copyright ©2022 All rights reserved | Designed And Developed By <Link to="/IT" className="green">IEEE IT TEAM</Link></h6> */}
+        <h6>Copyright ©2022 All rights reserved | Designed And Developed By <a href="https://armemon.github.io/arm" target="_blank" className="green">AR Memon</a></h6>
+      
+        </div>
     )}
 }
 export {

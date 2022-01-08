@@ -27,7 +27,8 @@
     }
     
     .green {
-        color: green;
+        color: green !important;
+        text-decoration: none;
     }
     
     .navbar-toggler:focus {
