@@ -10,7 +10,7 @@ class AppRouter extends React.Component {
             <Router>
                 <Header />
                 <Routes>
-                    <Route exact path='/' element={<Contact />} />
+                    <Route exact path='/IEEE' element={<Contact />} />
                     <Route exact path='/home' element={<Home />} />
                     <Route exact path='/IT' element={<IT />} />
                 </Routes>
